@@ -1,0 +1,1 @@
+# 20. Write a function to convert all lowercase letters to uppercase without using .upper().
